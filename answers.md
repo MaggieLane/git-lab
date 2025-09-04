@@ -1,7 +1,10 @@
 Answer 1: git version 2.43.0
+
 Answer 2: user.name=MaggieLane
         user.email=Maggielane752@yahoo.com
+		
 Answer 3: it gives me a Git Manual for the command add and other commands that go with it
+
 Answer 4: it says on branch master 
           no commits yet
           untracked files:
@@ -9,6 +12,7 @@ Answer 4: it says on branch master
         README.md 
         answers.md
         nothing added to commit but untracked files present (use "git add" to track)
+
 Answer 5:   On branch master
 
             No commits yet
